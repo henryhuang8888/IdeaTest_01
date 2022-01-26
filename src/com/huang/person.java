@@ -5,4 +5,5 @@ public class person {
     private double height;
     private double weight;
     private double scores;
+    private int IDNumber;
 }
